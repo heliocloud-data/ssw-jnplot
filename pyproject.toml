@@ -1,14 +1,14 @@
 [project]
-name = "my_pyhc_package"
-version = "0.0.0"
-description = "A package of awesome Python code that will transform heliophysics forever."
-license = { file = "LICENSE" }
+name = "ssw_jnplot"
+version = "1.0.0"
+description = "A python script to modify SSW, plus IDL pros to enable plotting in Jupyter Notebooks"
+license = { file = "LICENSE.md" }
 readme = "README.md"
 keywords = [
-    "awesome",
     "heliophysics",
-    "package"
+    "idl",
+    "jupyter"
 ]
 
 [project.urls]
-Homepage = "https://github.com/heliophysicsPy/pyhc-repo-template"
+Homepage = "https://github.com/heliocloud-data/ssw-jnplot"
